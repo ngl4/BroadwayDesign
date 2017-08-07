@@ -1,0 +1,74 @@
+body {
+
+	font-family: Helvetica;
+	text-align: center;
+	
+}
+
+#heading {
+
+	background-image: url('../images/the-building.png');
+
+}
+
+/* remember ../ for images url in css */
+
+#heading h1 {
+
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+
+}
+
+
+a {
+
+	font-size: 18px;
+	color: white;
+
+}
+
+#process h2 {
+
+	font-size: 32px;
+	font-weight: bold;
+
+}
+
+#process h3,
+#work h3,
+#team h3,
+#contact h3 {
+
+	font-size: 23px;
+	font-weight: bold;
+
+}
+
+#process p,
+#work p, 
+#team p,
+#contact p {
+
+	font-size: 14px;
+
+}
+
+#des-location h3 {
+
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url('../images/the-building.png');
+}
+
+#copyright-footer-nav p {
+
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+}
+
+
+
